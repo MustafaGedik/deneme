@@ -14,7 +14,7 @@ public class deneme {
     int a=5;
     int b=10;
     int c=24;
-    
+    int k=34;
     
 }
 
